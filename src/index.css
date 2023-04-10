@@ -1,0 +1,9 @@
+body {
+  background-color: red;
+}
+
+
+.wrapper{
+  display: flex;
+  flex-wrap: wrap;
+}
